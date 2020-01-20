@@ -1,0 +1,125 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body {
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.exam{
+
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+}
+
+.des{
+
+	width: 50%;
+	float: left;
+	padding: 72px 0px;
+}
+
+.des h1{
+	
+	color: white;
+	font-size: 30px;
+}
+
+.des span{
+	
+	color: aqua;
+}
+
+.des p{
+
+	color: white;
+	padding: 51px 0px;
+	font-size: 20px;
+}
+
+
+
+.des i{
+
+	padding: 7px 0px;
+	display: block;
+	color: white;
+	font-size: 20px;
+}
+
+
+
+.btn{
+
+	background-color: aqua;
+	padding: 8px 20px;
+	margin: 27px 0px;
+	border: none;
+	border-radius: 5px;
+	font-size: 18px;
+	color: black;
+	letter-spacing: 1px;
+}
+
+.register{
+
+	float: left;
+	padding: 5px 0px;
+	width: 50%;
+	background: #04061c75;
+}
+
+.register h1{
+	
+	color: white;
+	letter-spacing: 2px;
+	font-size: 30px;
+	text-align: center;
+	margin: 27px 0px;
+}
+
+.register p{
+	
+	color: white;
+	padding: 23px 3px;
+	text-align: center;
+}
+
+form {
+	
+	text-align: center;
+}
+
+.form-control{
+
+	width: 70%;
+	padding: 16px 32px;
+	margin: 10px 4px;
+	border: 0px solid aqua;
+	font-size: 17px;
+	border-radius: 5px;
+}
+
+.submit-btn{
+	
+
+    width: 81%;
+	background-color: aqua;
+	padding: 13px 5px;
+	margin: 17px 0px;
+	border: none;
+	font-size: 18px;
+	letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
